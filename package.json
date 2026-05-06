@@ -1,0 +1,20 @@
+{
+  "name": "virtual-dom",
+  "version": "1.0.0",
+  "description": "Virtual DOM using JS",
+  "homepage": "https://github.com/siddanagoudampatil/virtual-dom#readme",
+  "bugs": {
+    "url": "https://github.com/siddanagoudampatil/virtual-dom/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddanagoudampatil/virtual-dom.git"
+  },
+  "license": "ISC",
+  "author": "Sid Patil",
+  "type": "commonjs",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
